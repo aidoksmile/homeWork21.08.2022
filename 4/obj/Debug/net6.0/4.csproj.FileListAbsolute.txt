@@ -1,0 +1,15 @@
+/Users/Aida/Documents/занятия/homeWork21.08/4/obj/Debug/net6.0/4.csproj.AssemblyReference.cache
+/Users/Aida/Documents/занятия/homeWork21.08/4/obj/Debug/net6.0/4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Aida/Documents/занятия/homeWork21.08/4/obj/Debug/net6.0/4.AssemblyInfoInputs.cache
+/Users/Aida/Documents/занятия/homeWork21.08/4/obj/Debug/net6.0/4.AssemblyInfo.cs
+/Users/Aida/Documents/занятия/homeWork21.08/4/obj/Debug/net6.0/4.csproj.CoreCompileInputs.cache
+/Users/Aida/Documents/занятия/homeWork21.08/4/bin/Debug/net6.0/4
+/Users/Aida/Documents/занятия/homeWork21.08/4/bin/Debug/net6.0/4.deps.json
+/Users/Aida/Documents/занятия/homeWork21.08/4/bin/Debug/net6.0/4.runtimeconfig.json
+/Users/Aida/Documents/занятия/homeWork21.08/4/bin/Debug/net6.0/4.dll
+/Users/Aida/Documents/занятия/homeWork21.08/4/bin/Debug/net6.0/ref/4.dll
+/Users/Aida/Documents/занятия/homeWork21.08/4/bin/Debug/net6.0/4.pdb
+/Users/Aida/Documents/занятия/homeWork21.08/4/obj/Debug/net6.0/4.dll
+/Users/Aida/Documents/занятия/homeWork21.08/4/obj/Debug/net6.0/ref/4.dll
+/Users/Aida/Documents/занятия/homeWork21.08/4/obj/Debug/net6.0/4.pdb
+/Users/Aida/Documents/занятия/homeWork21.08/4/obj/Debug/net6.0/4.genruntimeconfig.cache
